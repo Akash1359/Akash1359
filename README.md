@@ -1,10 +1,10 @@
-j<!-- Level 3: Add custom code -->
+<!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Akash!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studying [Computer Science](https://www.lpu.in/) at Lovely Professional University, India<br/>
-📊 Interested in data analytics and visualization, exploring practical applications in tech
-🌱 #learninginpublic with hands-on projects in Java, Python, and cloud technologies
+📊 Interested in data analytics and visualization, exploring practical applications in tech<br/>
+🌱 #learninginpublic with hands-on projects in Java, Python, and cloud technologies<br/>
 🎯 Currently working on a GitHub portfolio to showcase my progress and achievements
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
